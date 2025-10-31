@@ -3,7 +3,7 @@ markdown
 
 # ⚡ SHEHAN NILUKSHAN ⚡
 
-### `AI RESEARCHER • ETHICAL HACKER • FOUNDER`
+### `AI RESEARCHER • FOUNDER`
 
 [![Website](https://img.shields.io/badge/🌐_shehan--nilukshan.ai-00FFF0?style=for-the-badge&logoColor=black)](https://shehan-nilukshan.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
