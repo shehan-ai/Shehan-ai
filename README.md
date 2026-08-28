@@ -1,196 +1,57 @@
-markdown
 <div align="center">
 
-# ⚡ SHEHAN NILUKSHAN ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0f766e&height=190&section=header&text=Shehan%20Nilukshan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Open%20Source&descAlignY=60&descSize=18" alt="Shehan Nilukshan — Founder, AI Security, Open Source" />
 
-### `AI RESEARCHER • FOUNDER`
+<a href="https://www.airedcell.dev/"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+practical+AI+products;Researching+safer+and+more+robust+AI+systems;Turning+ambitious+startup+ideas+into+useful+software" alt="Building practical AI products; researching safer AI systems; turning startup ideas into useful software" /></a>
 
-[![Website](https://img.shields.io/badge/🌐_shehan--nilukshan.ai-00FFF0?style=for-the-badge&logoColor=black)](https://shehan-nilukshan.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shehan-nilukshan)
-
-
-╔══════════════════════════════════════════════════════════════╗
-║  FOUNDER • AI REDCELL                                        ║
-║  OPEN-SOURCE AI VULNERABILITY & JAILBREAK RESEARCH           ║
-╚══════════════════════════════════════════════════════════════╝
-
+[![AI RedCell](https://img.shields.io/badge/AI_RedCell-111827?style=for-the-badge&logo=shield&logoColor=38BDF8)](https://www.airedcell.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehan-nilukshan)
+[![Email](https://img.shields.io/badge/Contact-0F766E?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:info@airedcell.dev)
+![Profile views](https://komarev.com/ghpvc/?username=shehan-ai&style=for-the-badge&color=312e81&label=PROFILE+VIEWS)
 
 </div>
 
----
+## About
 
-## 🔮 ABOUT_ME
+I am a founder building practical AI products, security research, and selective open-source tools.
 
-python
-class ShehanNilukshan:
-    def _init_(self):
-        self.name = "Shehan Nilukshan"
-        self.role = "AI Researcher & Ethical Hacker"
-        self.organization = "AI RedCell [FOUNDER]"
-        self.mission = [
-            "AI Security & Vulnerability Research",
-            "Ethical AI Jailbreak Testing",
-            "Advanced Automation Systems",
-            "Open-Source AI Defense"
-        ]
-        self.expertise = {
-            "languages": ["Python", "Java", "HTML", "CSS"],
-            "ai_automation": ["n8n", "Dify"],
-            "domains": ["AI Security", "Red Teaming", "Penetration Testing"]
-        }
-    
-    def current_focus(self):
-        return "Building the future of ethical AI security research"
+I lead [AI RedCell](https://www.airedcell.dev/), focused on responsible AI security, adversarial testing, and safer AI systems. Alongside that work, I build startup products that turn ambitious ideas into useful software.
 
+## What I work on
 
-> **Mission Statement:** Pioneering ethical AI vulnerability research to build safer, more secure artificial intelligence systems. Leading **AI RedCell** to discover, document, and defend against emerging AI threats through open-source collaboration.
+- AI security, prompt-injection defense, and adversarial testing
+- Product strategy and software for early-stage ventures
+- Practical AI learning and automation systems
+- Open-source tools that solve real workflow and community problems
 
----
+## Research principles
 
-## 💼 PROJECTS_&_RESEARCH
+I believe AI security work should be useful, reproducible, and responsible.
 
-### 🔴 **AI RedCell**
-**Open-Source AI Vulnerability & Jailbreak Research Organization**
+- Test only with authorization and clear scope.
+- Document findings carefully and avoid unnecessary harm.
+- Prefer practical mitigations and education over hype.
+- Share work publicly when doing so is safe and useful.
 
-
-├─ Role: Founder & Lead Researcher
-├─ Focus: AI Security, Red Teaming, Vulnerability Discovery
-├─ Mission: Ethical AI jailbreak testing & defense mechanisms
-└─ Stack: Python • AI Models • Security Frameworks
-
-
-[![Organization](https://img.shields.io/badge/GitHub_Org-AI_RedCell-FF0000?style=for-the-badge&logo=github)](https://github.com/AI-RedCell)
-
-**Impact:** Leading research initiatives in AI safety, developing methodologies for responsible vulnerability disclosure, and building tools for the AI security community.
-
----
-
-### ⚡ **AI Automation Infrastructure**
-**Enterprise-Grade Workflow Automation Systems**
-
-
-├─ Technologies: n8n • Dify • Python
-├─ Capabilities: Multi-agent orchestration, intelligent routing
-├─ Use Cases: Security automation, research workflows, data processing
-└─ Architecture: Scalable, modular, cloud-native
-
-
-**Innovation:** Designed and deployed advanced automation pipelines that integrate AI models with security testing frameworks, enabling rapid vulnerability assessment at scale.
-
----
-
-### 🛡 **Ethical Hacking Research**
-**Penetration Testing & Security Vulnerability Analysis**
-
-
-├─ Domains: Web Security • API Testing • AI Model Security
-├─ Languages: Python • Java • Shell Scripting
-├─ Methodologies: OWASP • MITRE ATT&CK • Custom Frameworks
-└─ Contribution: Open-source security tools & research publications
-
-
-**Contribution:** Developing novel approaches to AI system penetration testing, with focus on prompt injection, model manipulation, and adversarial attacks.
-
----
-
-### 🤖 **AI Research Projects**
-**Cutting-Edge Artificial Intelligence Experiments**
-
-
-├─ NLP & LLM Security Research
-├─ Adversarial Machine Learning
-├─ AI Model Hardening Techniques
-└─ Automated Vulnerability Scanners for AI Systems
-
-
-**Technologies:** `Python` • `TensorFlow` • `PyTorch` • `Hugging Face` • `Custom AI Frameworks`
-
----
-
-## 🛠 TECH_STACK
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **AI & Automation**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Dify](https://img.shields.io/badge/Dify-6C47FF?style=for-the-badge&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-00D9FF?style=for-the-badge&logo=ai&logoColor=black)
-
-### **Security & Research**
-![Security](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Research](https://img.shields.io/badge/AI_Research-4B0082?style=for-the-badge&logo=academia&logoColor=white)
-
----
-
-## 📊 GITHUB_STATS
+## GitHub activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehan-nilukshan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0&text_color=FFFFFF)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shehan-ai&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=2DD4BF&text_color=CBD5E1&bg_color=00000000" alt="Shehan's GitHub statistics" />
+<img height="170" src="https://streak-stats.demolab.com/?user=shehan-ai&hide_border=true&theme=transparent&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&background=00000000" alt="Shehan's GitHub contribution streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehan-nilukshan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF0&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehan-nilukshan&theme=radical&hide_border=true&background=0D1117&ring=00FFF0&fire=FF0000&currStreakLabel=00FFF0)
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=shehan-ai&bg_color=00000000&color=CBD5E1&line=38BDF8&point=2DD4BF&area=true&hide_border=true" alt="Shehan's GitHub activity graph" />
 
 </div>
 
----
+## Open source & collaboration
 
-## 🌐 CONNECT_&_COLLABORATE
+I am open to thoughtful collaboration on AI security, responsible testing, safer AI development, and startup products with meaningful real-world impact.
 
-<div align="center">
-
-
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  🌐 Website    → shehan-nilukshan.ai                          ║
-║  💼 LinkedIn   → [Your LinkedIn URL]                          ║
-║  🔴 AI RedCell → github.com/AI-RedCell                        ║
-║  📧 Email      → [Your Professional Email]                    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-
-
-### 🤝 **Open for Collaboration**
-
-python
-collaboration_areas = {
-    "research": ["AI Security", "Vulnerability Research", "Ethical AI"],
-    "projects": ["Open-Source Security Tools", "AI Defense Systems"],
-    "speaking": ["Conferences", "Workshops", "Security Summits"],
-    "consulting": ["AI Security Audits", "Penetration Testing"]
-}
-
-
-[![AI RedCell](https://img.shields.io/badge/Organization-AI_RedCell-FF0000?style=for-the-badge&logo=github)](https://github.com/AI-RedCell)
-
-</div>
-
----
+For company work, visit [AI RedCell](https://www.airedcell.dev/). For a direct conversation, connect with me on [LinkedIn](https://www.linkedin.com/in/shehan-nilukshan).
 
 <div align="center">
 
-### ⚡ **"Building the future of ethical AI security, one vulnerability at a time."** ⚡
-
-
-██████╗ ███████╗██████╗  ██████╗███████╗██╗     ██╗     
-██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██║     ██║     
-██████╔╝█████╗  ██║  ██║██║     █████╗  ██║     ██║     
-██╔══██╗██╔══╝  ██║  ██║██║     ██╔══╝  ██║     ██║     
-██║  ██║███████╗██████╔╝╚██████╗███████╗███████╗███████╗
-╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝╚══════╝╚══════╝╚══════╝
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=shehan-nilukshan&color=00FFF0&style=for-the-badge)
-
----
-
-**© 2025 Shehan Nilukshan • AI RedCell • Ethical AI Security Research**
+> Building safer AI systems through practical research, responsible testing, and useful products.
 
 </div>
