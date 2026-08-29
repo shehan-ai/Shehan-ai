@@ -51,8 +51,8 @@ I move between strategy, product design, software, and research—following the 
 
 </div>
 
-**Product & web** · TypeScript · Next.js · React · Supabase · Vercel  
-**AI & automation** · Python · AI APIs · n8n · Dify · workflow automation  
+**Product & web** · TypeScript · Next.js · React · Supabase · Vercel<br>
+**AI & automation** · Python · AI APIs · n8n · Dify · workflow automation<br>
 **Security** · Prompt-injection testing · AI red teaming · web/API security
 
 ## Research principles
