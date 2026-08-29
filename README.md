@@ -47,13 +47,39 @@ I move between strategy, product design, software, and research—following the 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,supabase,vercel,github&perline=8" alt="Python, TypeScript, JavaScript, Next.js, React, Supabase, Vercel, and GitHub" />
+<sub>AI &amp; agents</sub><br>
+<img height="24" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img height="24" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img height="24" src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logo=graphql&logoColor=E879F9" alt="LangGraph" />
+<img height="24" src="https://img.shields.io/badge/Langfuse-111827?style=flat-square&logo=opentelemetry&logoColor=F97316" alt="Langfuse" />
+<img height="24" src="https://img.shields.io/badge/LangSmith-111827?style=flat-square&logo=python&logoColor=38BDF8" alt="LangSmith" />
+<img height="24" src="https://img.shields.io/badge/Dify-111827?style=flat-square&logo=sparkles&logoColor=F5B301" alt="Dify" />
+<img height="24" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /><br>
+
+<sub>Product &amp; web</sub><br>
+<img height="24" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+<img height="24" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img height="24" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img height="24" src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+<img height="24" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /><br>
+
+<sub>Data, cloud &amp; delivery</sub><br>
+<img height="24" src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+<img height="24" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img height="24" src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<img height="24" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img height="24" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img height="24" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /><br>
+
+<sub>Security &amp; operations</sub><br>
+<img height="24" src="https://img.shields.io/badge/AI_Red_Teaming-111827?style=flat-square&logo=shield&logoColor=38BDF8" alt="AI red teaming" />
+<img height="24" src="https://img.shields.io/badge/Prompt_Injection-111827?style=flat-square&logo=probot&logoColor=F97316" alt="Prompt injection testing" />
+<img height="24" src="https://img.shields.io/badge/Web%20%2F%20API%20Security-111827?style=flat-square&logo=owasp&logoColor=2DD4BF" alt="Web and API security" />
 
 </div>
 
-**Product & web** · TypeScript · Next.js · React · Supabase · Vercel<br>
-**AI & automation** · Python · AI APIs · n8n · Dify · workflow automation<br>
-**Security** · Prompt-injection testing · AI red teaming · web/API security
+<sub>These are tools and areas I work with across products, automation, learning, and research—not a claim that every tool is used in every project.</sub>
 
 ## Research principles
 
