@@ -28,10 +28,32 @@ I lead [Kaimera X](https://kaimerax.com/), an AI-first software and solutions co
 
 ## Now
 
-- Building practical AI products and business automations.
-- Growing free learning experiences through AI RedCell.
-- Exploring responsible AI security without losing sight of product usefulness.
-- Selectively open-sourcing tools when they can help other builders.
+| Focus | Status |
+| --- | --- |
+| Practical AI products and business automations | 🟢 Building |
+| Free learning experiences through AI RedCell | 🟢 Growing |
+| Responsible AI security and safer systems | 🟡 Exploring |
+| Selective open-source tools | ⚪ When useful |
+
+## Founder journey
+
+```text
+Ideas → Products → Companies → Useful systems → Shared knowledge
+```
+
+I move between strategy, product design, software, and research—following the problem rather than forcing every idea into the same technology.
+
+## Technology orbit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,supabase,vercel,github&perline=8" alt="Python, TypeScript, JavaScript, Next.js, React, Supabase, Vercel, and GitHub" />
+
+</div>
+
+**Product & web** · TypeScript · Next.js · React · Supabase · Vercel  
+**AI & automation** · Python · AI APIs · n8n · Dify · workflow automation  
+**Security** · Prompt-injection testing · AI red teaming · web/API security
 
 ## Research principles
 
@@ -41,6 +63,17 @@ I believe technology should be useful, understandable, and responsible.
 - Build the simplest useful version first.
 - Make systems secure and understandable.
 - Share knowledge and tools when doing so is safe and useful.
+
+<details>
+<summary>How I build</summary>
+
+1. Start with a real problem.
+2. Understand the people and workflow around it.
+3. Build the simplest useful version.
+4. Make it secure, understandable, and measurable.
+5. Improve it through feedback.
+
+</details>
 
 ## GitHub activity
 
@@ -52,6 +85,10 @@ I believe technology should be useful, understandable, and responsible.
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=shehan-ai&bg_color=00000000&color=CBD5E1&line=38BDF8&point=2DD4BF&area=true&hide_border=true" alt="Shehan's GitHub activity graph" />
 
 </div>
+
+## A principle I work by
+
+> Build around the real problem first. Use AI when it creates meaningful leverage—not simply because it is fashionable.
 
 ## Open source & collaboration
 
